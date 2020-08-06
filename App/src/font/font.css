@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'ProximaNova-Light';
+  src: url('../font/ProximaNova-Light.eot');
+  src: url('../font/ProximaNova-Light.woff2') format('woff2'),
+       url('../font/ProximaNova-Light.woff') format('woff'),
+       url('../font/ProximaNova-Light.ttf') format('truetype'),
+       url('../font/ProximaNova-Light.svg#ProximaNova-Light') format('svg'),
+       url('../font/ProximaNova-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova-Regular';
+  src: url('../font/ProximaNova-Regular.eot');
+  src: url('../font/ProximaNova-Regular.woff2') format('woff2'),
+       url('../font/ProximaNova-Regular.woff') format('woff'),
+       url('../font/ProximaNova-Regular.ttf') format('truetype'),
+       url('../font/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg'),
+       url('../font/ProximaNova-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova-Semibold';
+  src: url('../font/ProximaNova-Semibold.eot');
+  src: url('../font/ProximaNova-Semibold.woff2') format('woff2'),
+       url('../font/ProximaNova-Semibold.woff') format('woff'),
+       url('../font/ProximaNova-Semibold.ttf') format('truetype'),
+       url('../font/ProximaNova-Semibold.svg#ProximaNova-Semibold') format('svg'),
+       url('../font/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova-Bold';
+  src: url('../font/ProximaNova-Bold.eot');
+  src: url('../font/ProximaNova-Bold.woff2') format('woff2'),
+       url('../font/ProximaNova-Bold.woff') format('woff'),
+       url('../font/ProximaNova-Bold.ttf') format('truetype'),
+       url('../font/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg'),
+       url('../font/ProximaNova-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+

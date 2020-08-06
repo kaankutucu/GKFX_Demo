@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-2{fill:#0aae8b}
+        </style>
+    </defs>
+    <g id="icon" transform="translate(-1185 -1238)">
+        <g id="Ellipse_48" fill="#fff" stroke="#d5d5d5" stroke-dasharray="4 3" stroke-width="2px" data-name="Ellipse 48" transform="translate(1185 1238)">
+            <circle cx="75" cy="75" r="75" stroke="none"/>
+            <circle cx="75" cy="75" r="74" fill="none"/>
+        </g>
+        <path id="Path_10333" d="M1525.579 617a2.1 2.1 0 0 0-3.579-.9 2.049 2.049 0 0 0-.472 1.912 16.555 16.555 0 0 1 .261 7.734 16.882 16.882 0 1 1-18.991-20.035 16.793 16.793 0 0 1 10.72 2.009 2.086 2.086 0 1 0 2.052-3.632 21.036 21.036 0 0 0-31.269 16.251h-16.021a21.047 21.047 0 1 0 0 4.163h16.02a21.046 21.046 0 1 0 41.276-7.51zm-61.5 7.628a16.887 16.887 0 1 1-18.944-18.943 16.935 16.935 0 0 1 18.947 18.939z" class="cls-2" data-name="Path 10333" transform="translate(-218.292 691.623)"/>
+        <path id="Path_10334" d="M1496.165 618.854a2.082 2.082 0 1 0-2.656 3.206l9.579 7.935a2.081 2.081 0 0 0 2.9-.238l15.4-17.754a2.082 2.082 0 0 0-3.146-2.729l-14.068 16.217z" class="cls-2" data-name="Path 10334" transform="translate(-218.292 691.623)"/>
+    </g>
+</svg>
